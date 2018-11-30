@@ -4,3 +4,16 @@ cd pdfminer/
 python setup.py install
 # unit test: pdf2txt.py samples/simple1.pdf
 #
+##
+###
+##
+#
+# useful utility to access online videos
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+# unit test: youtube-dl --write-auto-sub --sub-lang en --skip-download https://www.youtube.com/watch?v=HGYYEUSm-0Q
+#
+##
+###
+##
+#
