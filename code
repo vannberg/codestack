@@ -1,0 +1,6 @@
+# useful utility to extract text from pdf files
+git clone https://github.com/euske/pdfminer
+cd pdfminer/
+python setup.py install
+# unit test: pdf2txt.py samples/simple1.pdf
+#
