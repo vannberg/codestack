@@ -17,3 +17,9 @@ sudo chmod a+rx /usr/local/bin/youtube-dl
 ###
 ##
 #
+git clone https://github.com/vinta/awesome-python
+#
+##
+###
+##
+#
