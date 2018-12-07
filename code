@@ -23,3 +23,4 @@ git clone https://github.com/vinta/awesome-python
 ###
 ##
 #
+curl -o ./googler https://raw.githubusercontent.com/jarun/googler/v3.7.1/googler
